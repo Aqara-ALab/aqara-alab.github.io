@@ -1,2 +1,2 @@
 # Aqara ALab
-[Aqara ALab Blog](https://alab.aqara.com/blog)
+[Aqara ALab Blog](http://alab.aqara.com/blog)

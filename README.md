@@ -1,2 +1,2 @@
-# aqara-alab.github.io
-Aqara ALab
+# Aqara ALab
+[Aqara ALab Blog](https://alab.aqara.com/blog)
